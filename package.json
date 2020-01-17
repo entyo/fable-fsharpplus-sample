@@ -1,0 +1,25 @@
+{
+  "name": "fable-fsharpplus-sample",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "e_ntyo",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.3",
+    "@babel/preset-env": "^7.8.2",
+    "babel-loader": "^8.0.6",
+    "core-js": "^3.6.3",
+    "fable-compiler": "^2.4.12",
+    "fable-loader": "^2.1.8",
+    "fable-utils": "^1.2.0",
+    "html-webpack-plugin": "^3.2.0",
+    "npx": "^10.2.0",
+    "style-loader": "^1.1.2",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
